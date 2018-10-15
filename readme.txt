@@ -1,12 +1,1 @@
-11111
-11111
-11111
-11111
-11111
-11111
-11111
-11111
-11111
-11111
-11111
-
+There are four properties files in this configuration repository
